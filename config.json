@@ -1,0 +1,21 @@
+{
+  "baudrate": 115200,
+  "soil_min_pct": 30.0,
+  "temp_critical_c": 32.0,
+  "light_critical_pct": 75.0,
+  "rain_block_mm": 8.0,
+  "sample_interval_s": 1.0,
+  "chart_points": 180,
+  "port": "",
+  "auto_reconnect": true,
+  "pump_max_s": 120,
+  "irrigation_interval_s": 300,
+  "chart_interval_s": 2,
+  "theme": "Claro",
+  "units": "Métrico",
+  "weather_city": "Santos",
+  "weather_state": "São Paulo",
+  "weather_country_code": "BR",
+  "weather_auto_update": true,
+  "weather_update_minutes": 30.0
+}

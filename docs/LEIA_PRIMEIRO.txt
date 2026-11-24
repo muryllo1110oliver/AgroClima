@@ -1,0 +1,13 @@
+AGROCLIMA MONITOR 2.0 - WINDOWS x64 - CORRECAO HTTPS
+
+Extraia o ZIP inteiro para uma pasta gravavel e abra AgroClimaMonitor.exe.
+Mantenha _internal ao lado do executavel: ela inclui Python, Qt e certificados.
+Nao exige instalar Python, curl ou PowerShell. A meteorologia exige internet.
+
+Em Configuracoes, informe cidade, estado/regiao e pais (BR) e clique em
+Buscar cidade e atualizar previsao. Fonte: Open-Meteo Best Match.
+O intervalo automatico padrao permanece em 30 minutos.
+
+Para atualizar uma instalacao com dados seus, preserve config.json e data.
+Consulte ENTREGA_FINAL.md para causa raiz, arquivos alterados e testes.
+Fonte completo: AgroClimaMonitor_2.0_Codigo_Completo.zip.
